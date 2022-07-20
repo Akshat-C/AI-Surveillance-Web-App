@@ -1,0 +1,17 @@
+body {
+    background-image: url("pexels-ann-h-1762851.jpg");
+    opacity: 0.8;
+    z-index: 9;
+}
+
+div {
+    float:left;
+    margin-top: 500px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    height: 200px;
+    opacity: 1.0 !important;
+    z-index: 99;
+    border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+h1 {
+    margin: 0;
+    padding: 15px;
+}
+
+canvas {
+    border-radius: 20px;
+    border: 2px solid blueviolet;
+    margin-top: 75px;
+}
+
+body {
+    background-image: url("pexels-madison-inouye-1831234.jpg");
+}
